@@ -37,11 +37,17 @@ Key Business Insights
 - The West region outperformed other regions in total sales.
 - Consumer customers contributed the largest share of sales.
 
+Repository Structure
 
+Superstore-Sales-Dashboard/
+│── README.md
+│── dashboard.png
+│── Superstore_Sales_Dashboard.twbx
+│── Sample_Superstore.xlsx
 
 ## Author
 
 **Ajita Ojaswinee Kaushik**
 
-B.Tech Computer Science Engineering  
+B.Tech Computer Science Engineering student 
 Aspiring Data Analyst | Tableau | Power BI | SQL | Python
